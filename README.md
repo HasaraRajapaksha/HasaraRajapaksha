@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasara Rajapaksha</h1>
 <h3 align="center">I am a Software Engineering Undergraduate Student at NSBM Green University in Sri Lanka.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasararajapaksha" alt="hasararajapaksha" /></a> </p>
-
 - 🌱 I’m currently learning **Programming Languages & Frameworks etc..**
 
 - 💬 Ask me about **Java,Html,Css,Js,React,c#,DBMS**
